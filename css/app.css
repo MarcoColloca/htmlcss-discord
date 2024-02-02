@@ -34,7 +34,7 @@ img{
     flex-direction: row-reverse;
 }
 
-.pad20{
+.pad-20{
     padding: 20px;
 }
 
@@ -89,7 +89,7 @@ img{
     border: dashed 2px white;
 }
 
-.borderdashblack{
+.debug .borderdashblack{
     border: dashed 2px rgb(0, 0, 0);
 }
 
@@ -151,8 +151,9 @@ img{
     color: white;
 }
 
-.{
-    max-width: 50px;
+.header-logo{
+    max-width: fit-content;
+    padding-top: 10px;
 }
 
 .header-bg{
@@ -160,11 +161,13 @@ img{
 }
 
 .list-link li{
-    padding: 0px 20px;
+    padding: 10px 20px;
+    font-size: 20px;
 }
 
 .login-button{
-    padding: 20px;
+    padding: 10px 17px;
+    border-radius: 38%;
     max-width: fit-content;
 }
 
