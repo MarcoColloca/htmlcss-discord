@@ -267,6 +267,12 @@ button{
 
 
 /* Registrazione Footer */
+
+.footer-bg{
+    padding-bottom: 50px;
+}
+
+
 .box-110{
     height: 110px;
     align-items: center;
