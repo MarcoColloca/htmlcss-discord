@@ -116,7 +116,9 @@ button{
     font-size: 20px;
 }
 
-
+.page-font{
+    font-family: 'Open Sans', sans-serif;
+}
 
 
 /* HEADER */
