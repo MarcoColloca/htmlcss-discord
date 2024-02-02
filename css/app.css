@@ -131,6 +131,7 @@ button{
 
 .header-bg{
     background-image: url(../img/jumbo.png);
+    background-size: contain;
 }
 
 
@@ -206,6 +207,7 @@ button{
     text-align: center;
     margin-bottom: 10px;
     background-image: url(../img/stars.svg);
+    background-size: contain;
 }
 
 .col-green_button{
@@ -260,12 +262,12 @@ button{
 
 
 
-
-
+/* Registrazione Footer */
 .box-110{
     height: 110px;
     align-items: center;
     justify-content: space-between;
+    border-top: 2px solid rgb(112, 112, 255);
 }
 
 .footer-logo{
@@ -281,6 +283,30 @@ button{
     font-size: 20px;
     text-align: center;
 }
+
+
+.box-110_button{
+    background-color: rgb(173, 188, 230);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
