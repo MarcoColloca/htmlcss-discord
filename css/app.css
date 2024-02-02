@@ -232,13 +232,28 @@ button{
     height: 600px;
 }
 
+
 .footer-list-title{
     color: rgb(73, 73, 247);
+    padding-bottom: 10px;
+    font-size: 20px;
 }
 
 .footer-list-content{
     color: white;
+    padding-bottom: 10px;
+    font-size: 20px;
 }
+
+
+.box-701 ul{
+    padding-top: 50px;
+}
+
+
+
+
+
 
 
 .box-110{
