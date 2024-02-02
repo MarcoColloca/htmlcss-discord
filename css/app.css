@@ -250,7 +250,15 @@ button{
     padding-top: 50px;
 }
 
+.language-title{
+    font-size: 40px;
+    color: rgb(73, 73, 247);
+    padding-bottom: 20px;
+}
 
+.lang-ita{
+    display: inline-block;
+}
 
 
 
