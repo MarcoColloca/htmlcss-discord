@@ -89,7 +89,7 @@ img{
     border: dashed 2px white;
 }
 
-.debug .borderdashblack{
+.borderdashblack{
     border: dashed 2px rgb(0, 0, 0);
 }
 
@@ -147,7 +147,7 @@ img{
 .box-100{
     align-items: flex-start;
     justify-content: space-between;
-    height: 1251px;
+    max-height: 1251px;
     color: white;
 }
 
@@ -159,6 +159,7 @@ img{
 .header-bg{
     background-image: url(../img/jumbo.png);
 }
+
 
 .list-link li{
     padding: 10px 20px;
