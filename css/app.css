@@ -34,6 +34,10 @@ img{
     flex-direction: row-reverse;
 }
 
+.pad20{
+    padding: 20px;
+}
+
 /* DEBUG UTILITY */
 
 
@@ -141,19 +145,28 @@ img{
 /* HEADER */
 
 .box-100{
-    padding: 20px;
     align-items: flex-start;
+    justify-content: space-between;
     height: 1251px;
+    color: white;
 }
 
-.col-orange{
-    height: 50px;
+.{
+    max-width: 50px;
 }
 
 .header-bg{
     background-image: url(../img/jumbo.png);
 }
 
+.list-link li{
+    padding: 0px 20px;
+}
+
+.login-button{
+    padding: 20px;
+    max-width: fit-content;
+}
 
 /* MAIN */
 
