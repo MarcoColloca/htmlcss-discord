@@ -22,12 +22,21 @@ img{
 
 /* UTILITY FIRST */
 
-.txtc{
+.txt-al-c{
     text-align: center;
 }
 
-.txtr{
+.txt-al-r{
     text-align: right;
+}
+
+.txt-content{
+    font-size: 20px;
+}
+
+
+.color-white{
+    color: white;
 }
 
 .flexrev{
@@ -171,6 +180,17 @@ img{
     border-radius: 38%;
     max-width: fit-content;
 }
+
+
+
+
+#title{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
 
 /* MAIN */
 
