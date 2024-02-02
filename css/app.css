@@ -48,7 +48,7 @@ img{
 }
 
 .color-black{
-    color: black;
+    color: rgb(26, 26, 26);
 }
 
 .flexrev{
@@ -59,9 +59,13 @@ img{
     padding: 20px;
 }
 
+.bg-black{
+    background-color: rgb(26, 27, 29);
+}
 
-
-
+.bg-gray{
+    background-color: rgb(212, 212, 212);
+}
 
 
 /* LAYOUT  */
@@ -305,11 +309,6 @@ button{
 
 
 
-
-
-
-
-
 /* DEBUG UTILITY */
 
 
@@ -345,18 +344,14 @@ button{
     background-color: white;
 }
 
-.bg-gray{
-    background-color: rgb(212, 212, 212);
-}
+
 
 .debug .bg-green{
     background-color: darkgreen;
 }
 
 
-.bg-black{
-    background-color: rgb(15, 15, 15);
-}
+
 .debug .borderdashwhite{
     border: dashed 2px white;
 }
