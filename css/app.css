@@ -276,6 +276,14 @@ button{
 }
 
 
+.social-icons{
+    margin-top: 20px;
+}
+
+.social-icons li{
+    display: inline-block;
+    margin-right: 25px;
+}
 
 /* Registrazione Footer */
 
