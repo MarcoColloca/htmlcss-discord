@@ -33,8 +33,15 @@ img{
 .txt-content{
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 
+.txt-title{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    padding-top: 30px;
+}
 
 .color-white{
     color: white;
@@ -147,7 +154,6 @@ button{
 
 .download-button{
     margin-left: 15%;
-    margin-top: 30px;
 }
 
 
@@ -156,12 +162,6 @@ button{
     color: white;
 }
 
-
-
-
-
-
-/* MAIN */
 
 .box-500{
     height: 500px;
@@ -175,6 +175,12 @@ button{
     width: 700px;
     border-radius: 2%;
 }
+
+
+
+
+
+/* MAIN */
 
 
 .box-700{
@@ -287,7 +293,7 @@ button{
     border: dashed 2px white;
 }
 
-.borderdashblack{
+.debug .borderdashblack{
     border: dashed 2px rgb(0, 0, 0);
 }
 
