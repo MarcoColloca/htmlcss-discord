@@ -32,11 +32,16 @@ img{
 
 .txt-content{
     font-size: 20px;
+    font-weight: bold;
 }
 
 
 .color-white{
     color: white;
+}
+
+.color-black{
+    color: black;
 }
 
 .flexrev{
@@ -47,60 +52,7 @@ img{
     padding: 20px;
 }
 
-/* DEBUG UTILITY */
 
-
-.debug .bg-orange{
-    background-color: orange;
-}
-
-.debug .bg-blue{
-    background-color: blue;
-}
-
-.debug .bg-azure {
-    background-color: rgb(1, 153, 153);
-}
-
-.debug .bg-darkpink{
-    background-color: rgb(180, 84, 100);
-}
-
-.debug .bg-lblue{
-    background-color: lightblue;
-}
-
-.debug .bg-pink{
-    background-color: pink;
-}
-
-.debug .bg-fuchsia{
-    background-color: rgb(255, 113, 255);
-}
-
-.debug .bg-white{
-    background-color: white;
-}
-
-.debug .bg-gray{
-    background-color: rgb(180, 180, 180);
-}
-
-.debug .bg-green{
-    background-color: darkgreen;
-}
-
-
-.debug .bg-black{
-    background-color: rgb(15, 15, 15);
-}
-.debug .borderdashwhite{
-    border: dashed 2px white;
-}
-
-.borderdashblack{
-    border: dashed 2px rgb(0, 0, 0);
-}
 
 
 
@@ -146,7 +98,12 @@ img{
     width: 100%;
 }
 
-
+button{
+    padding: 10px 17px;
+    border-radius: 38%;
+    max-width: fit-content;
+    font-size: 20px;
+}
 
 
 
@@ -176,20 +133,32 @@ img{
 }
 
 .login-button{
-    padding: 10px 17px;
-    border-radius: 38%;
-    max-width: fit-content;
+    font-size: 15px;
 }
-
-
 
 
 #title{
     font-size: 50px;
     text-align: center;
     color: white;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    padding-top: 30px;
 }
+
+.download-button{
+    margin-left: 15%;
+    margin-top: 30px;
+}
+
+
+.browser-button{
+    background-color: rgb(36, 36, 36);
+    color: white;
+}
+
+
+
+
 
 
 /* MAIN */
@@ -267,7 +236,60 @@ img{
 
 
 
+/* DEBUG UTILITY */
 
+
+.debug .bg-orange{
+    background-color: orange;
+}
+
+.debug .bg-blue{
+    background-color: blue;
+}
+
+.debug .bg-azure {
+    background-color: rgb(1, 153, 153);
+}
+
+.debug .bg-darkpink{
+    background-color: rgb(180, 84, 100);
+}
+
+.debug .bg-lblue{
+    background-color: lightblue;
+}
+
+.debug .bg-pink{
+    background-color: pink;
+}
+
+.debug .bg-fuchsia{
+    background-color: rgb(255, 113, 255);
+}
+
+.debug .bg-white{
+    background-color: white;
+}
+
+.debug .bg-gray{
+    background-color: rgb(180, 180, 180);
+}
+
+.debug .bg-green{
+    background-color: darkgreen;
+}
+
+
+.debug .bg-black{
+    background-color: rgb(15, 15, 15);
+}
+.debug .borderdashwhite{
+    border: dashed 2px white;
+}
+
+.borderdashblack{
+    border: dashed 2px rgb(0, 0, 0);
+}
 
 
 /* DEBUG RULES */
