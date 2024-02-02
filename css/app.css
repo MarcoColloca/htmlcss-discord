@@ -221,7 +221,7 @@ button{
 
 /* FOOOTER */
 
-
+/* Liste del footer */
 .box-701{
     height: 701px;
     align-items: flex-start;
@@ -230,6 +230,14 @@ button{
 
 .col-dpinkazure{
     height: 600px;
+}
+
+.footer-list-title{
+    color: rgb(73, 73, 247);
+}
+
+.footer-list-content{
+    color: white;
 }
 
 
@@ -304,7 +312,7 @@ button{
 }
 
 
-.debug .bg-black{
+.bg-black{
     background-color: rgb(15, 15, 15);
 }
 .debug .borderdashwhite{
