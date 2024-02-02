@@ -189,7 +189,7 @@ button{
 }
 
 .col-pink-blue{
-    height: 600px;
+    max-height: 600px;
 }
 
 .box-1100{
@@ -277,7 +277,7 @@ button{
     background-color: white;
 }
 
-.debug .bg-gray{
+.bg-gray{
     background-color: rgb(180, 180, 180);
 }
 
