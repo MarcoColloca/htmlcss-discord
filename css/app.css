@@ -329,68 +329,6 @@ button{
 
 
 
-
-
-
-
-
-
-
-
-
-
-/* DEBUG UTILITY */
-
-
-.debug .bg-orange{
-    background-color: orange;
-}
-
-.debug .bg-blue{
-    background-color: blue;
-}
-
-.debug .bg-azure {
-    background-color: rgb(1, 153, 153);
-}
-
-.debug .bg-darkpink{
-    background-color: rgb(180, 84, 100);
-}
-
-.debug .bg-lblue{
-    background-color: lightblue;
-}
-
-.debug .bg-pink{
-    background-color: pink;
-}
-
-.debug .bg-fuchsia{
-    background-color: rgb(255, 113, 255);
-}
-
-.debug .bg-white{
-    background-color: white;
-}
-
-
-
-.debug .bg-green{
-    background-color: darkgreen;
-}
-
-
-
-.debug .borderdashwhite{
-    border: dashed 2px white;
-}
-
-.debug .borderdashblack{
-    border: dashed 2px rgb(0, 0, 0);
-}
-
-
 /* DEBUG RULES */
 
 
