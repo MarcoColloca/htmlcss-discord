@@ -63,7 +63,7 @@ img{
 }
 
 .bg-gray{
-    background-color: rgb(231, 237, 240);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 
@@ -193,12 +193,20 @@ button{
 .box-700{
     height: 700px;
     align-items: center;
+    padding-bottom: 50px;
 }
 
 .col-pink-blue{
     max-height: 600px;
 }
 
+.wave-img{
+    opacity: 0.1;
+}
+
+.wave-rotate{
+    transform: rotate(180deg);
+}
 
 /* Main 4th Section */
 .box-1100{
